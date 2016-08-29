@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="load_data">LOAD DATA</string>
+    <string name="list">LIST</string>
+
+    <string name="temp">Temperatue</string>
+    <string name="description">Description</string>
+
+    <string name="country_string">Country</string>
+    <string name="temp_string">Temperature</string>
+    <string name="speed_string">Wind Speed</string>
+
+    <string name="no_match_found">No match found</string>
+</resources>
